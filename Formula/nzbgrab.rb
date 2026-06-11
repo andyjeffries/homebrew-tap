@@ -1,8 +1,8 @@
 class Nzbgrab < Formula
   desc "Fast parallel NZB downloader with PAR2 and extraction"
   homepage "https://github.com/andyjeffries/nzbgrab"
-  url "https://github.com/andyjeffries/nzbgrab/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "82a9d2f7f443e80204f86940a300bf26c4971deddae750abeee6b3133d2ab488"
+  url "https://github.com/andyjeffries/nzbgrab/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "c96ebdbab168f1ac62bf3776891b6fc88f6cf161f8edbf9e3c61ab2e5be6c365"
   license "MIT"
   head "https://github.com/andyjeffries/nzbgrab.git", branch: "master"
 
